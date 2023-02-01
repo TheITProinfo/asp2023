@@ -1,0 +1,13 @@
+C:\Users\jzm\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\jzm\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\jzm\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\jzm\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\jzm\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\jzm\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\asp2023\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\asp2023\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\asp2023\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
