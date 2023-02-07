@@ -1,0 +1,7 @@
+D:\asp2023\day3\CstDay3\CstIfstatements\bin\Debug\CstIfstatements.exe.config
+D:\asp2023\day3\CstDay3\CstIfstatements\bin\Debug\CstIfstatements.exe
+D:\asp2023\day3\CstDay3\CstIfstatements\bin\Debug\CstIfstatements.pdb
+D:\asp2023\day3\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.csproj.AssemblyReference.cache
+D:\asp2023\day3\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.csproj.CoreCompileInputs.cache
+D:\asp2023\day3\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.exe
+D:\asp2023\day3\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.pdb

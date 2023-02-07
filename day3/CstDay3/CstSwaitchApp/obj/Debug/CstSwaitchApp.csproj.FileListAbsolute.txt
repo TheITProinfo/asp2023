@@ -1,0 +1,7 @@
+D:\asp2023\day3\CstDay3\CstSwaitchApp\bin\Debug\CstSwaitchApp.exe.config
+D:\asp2023\day3\CstDay3\CstSwaitchApp\bin\Debug\CstSwaitchApp.exe
+D:\asp2023\day3\CstDay3\CstSwaitchApp\bin\Debug\CstSwaitchApp.pdb
+D:\asp2023\day3\CstDay3\CstSwaitchApp\obj\Debug\CstSwaitchApp.csproj.AssemblyReference.cache
+D:\asp2023\day3\CstDay3\CstSwaitchApp\obj\Debug\CstSwaitchApp.csproj.CoreCompileInputs.cache
+D:\asp2023\day3\CstDay3\CstSwaitchApp\obj\Debug\CstSwaitchApp.exe
+D:\asp2023\day3\CstDay3\CstSwaitchApp\obj\Debug\CstSwaitchApp.pdb

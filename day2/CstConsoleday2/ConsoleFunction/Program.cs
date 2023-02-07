@@ -33,8 +33,11 @@ namespace ConsoleFunction
             Console.WriteLine(SayHello());
             Console.ReadLine();
 
-
+            
 // define a method
+            
+
+
             string SayHello(string str="Joy") 
             {
 

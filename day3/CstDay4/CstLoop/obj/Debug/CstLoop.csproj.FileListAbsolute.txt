@@ -1,0 +1,7 @@
+D:\asp2023\day3\CstDay4\CstLoop\bin\Debug\CstLoop.exe.config
+D:\asp2023\day3\CstDay4\CstLoop\bin\Debug\CstLoop.exe
+D:\asp2023\day3\CstDay4\CstLoop\bin\Debug\CstLoop.pdb
+D:\asp2023\day3\CstDay4\CstLoop\obj\Debug\CstLoop.csproj.AssemblyReference.cache
+D:\asp2023\day3\CstDay4\CstLoop\obj\Debug\CstLoop.csproj.CoreCompileInputs.cache
+D:\asp2023\day3\CstDay4\CstLoop\obj\Debug\CstLoop.exe
+D:\asp2023\day3\CstDay4\CstLoop\obj\Debug\CstLoop.pdb
