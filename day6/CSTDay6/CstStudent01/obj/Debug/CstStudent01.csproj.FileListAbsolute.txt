@@ -1,0 +1,7 @@
+D:\asp2023\day6\CSTDay6\CstStudent01\bin\Debug\CstStudent01.exe.config
+D:\asp2023\day6\CSTDay6\CstStudent01\bin\Debug\CstStudent01.exe
+D:\asp2023\day6\CSTDay6\CstStudent01\bin\Debug\CstStudent01.pdb
+D:\asp2023\day6\CSTDay6\CstStudent01\obj\Debug\CstStudent01.csproj.AssemblyReference.cache
+D:\asp2023\day6\CSTDay6\CstStudent01\obj\Debug\CstStudent01.csproj.CoreCompileInputs.cache
+D:\asp2023\day6\CSTDay6\CstStudent01\obj\Debug\CstStudent01.exe
+D:\asp2023\day6\CSTDay6\CstStudent01\obj\Debug\CstStudent01.pdb
