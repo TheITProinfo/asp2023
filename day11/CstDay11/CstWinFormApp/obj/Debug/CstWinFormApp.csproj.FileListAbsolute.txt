@@ -1,0 +1,10 @@
+D:\asp2023\day11\CstDay11\CstWinFormApp\bin\Debug\CstWinFormApp.exe.config
+D:\asp2023\day11\CstDay11\CstWinFormApp\bin\Debug\CstWinFormApp.exe
+D:\asp2023\day11\CstDay11\CstWinFormApp\bin\Debug\CstWinFormApp.pdb
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.csproj.AssemblyReference.cache
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.Properties.Resources.resources
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.csproj.GenerateResource.cache
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.csproj.CoreCompileInputs.cache
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.exe
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.pdb
+D:\asp2023\day11\CstDay11\CstWinFormApp\obj\Debug\CstWinFormApp.UserLogin.resources
